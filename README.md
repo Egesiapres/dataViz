@@ -1,2 +1,3 @@
-# DataViz
- My projects in the data visualization field
+# dataViz
+
+My projects in the data visualization field
