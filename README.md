@@ -1,7 +1,7 @@
 # Data visualization course
 
 ### Description
-My erasmus university works of Data Visualization course (II MSc year)
+My erasmus university works of the Data Visualization course (II MSc year)
 
 ## Recreate a plot assignment
 
